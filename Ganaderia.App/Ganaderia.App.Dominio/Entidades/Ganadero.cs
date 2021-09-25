@@ -30,6 +30,7 @@ namespace Ganaderia.App.Dominio
          this.Ciudad = ciudad;
          this.Ganado = ganado;
          this.Veterinario = veterinario;
+         que mamera
 
         }*/
         
