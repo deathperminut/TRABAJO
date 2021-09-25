@@ -1,0 +1,9 @@
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.deps.json
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csprojAssemblyReference.cache
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.AssemblyInfo.cs
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb

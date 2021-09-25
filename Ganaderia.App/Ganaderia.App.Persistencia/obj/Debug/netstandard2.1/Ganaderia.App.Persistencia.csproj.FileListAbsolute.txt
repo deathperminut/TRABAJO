@@ -1,0 +1,12 @@
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.AssemblyInfo.cs
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.deps.json
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.dll
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.pdb
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.CopyComplete
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.dll
+C:\Users\DeLL-PC\Documents\Proyectos\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.pdb
