@@ -10,6 +10,10 @@ namespace Ganaderia.App.Dominio
 
         public HistoriaClinica HistoriaClinica { get; set; }
 
+        public string Codigo{get;set;}
+
+        public string Genero{get;set;}
+
         public List<Vacuna> ListaVacunas{get; set; }
 
         /*public Ejemplar(string especie,HistoriaClinica historiaClinica,
