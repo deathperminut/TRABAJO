@@ -2,15 +2,11 @@
 
 namespace Ganaderia.App.Dominio
 {
-    public class HistoriaClinica:Fecha
+    public class HistoriaClinica
     {   public int Id { get; set; }
         public float Peso{get;set;} 
 
-        public string Patologias{get;set;}
-
         public string InformeVeterinario{get;set;}
-
-        public string Consejos{get;set;}
 
         public Fecha Fecha{get;set;}
         

@@ -4,9 +4,7 @@ namespace Ganaderia.App.Dominio
 {
     public class Ganadero:Persona
     {  
-       public int Id { get; set; }
        public string Direccion{get;set;}
-       public string Ciudad{get;set;} 
        public List<Ejemplar> Ganado{get;set;}
        public Veterinario Veterinario{get;set;}
 

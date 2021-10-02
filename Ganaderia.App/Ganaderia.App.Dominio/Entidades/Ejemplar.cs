@@ -8,7 +8,7 @@ namespace Ganaderia.App.Dominio
         public int Id { get; set; }
         public string Especie { get; set; }
 
-        public HistoriaClinica HistoriaClinica { get; set; }
+        public List<HistoriaClinica> ListaHistoriaClinica { get; set; }
 
         public string Codigo{get;set;}
 
