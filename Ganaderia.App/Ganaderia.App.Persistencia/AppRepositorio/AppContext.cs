@@ -12,7 +12,7 @@ public class AppContext:DbContext
    public DbSet<Ganadero> Ganaderos { get; set; }
    public DbSet<Veterinario> Veterinarios{get;set; }
    public DbSet<HistoriaClinica> HistoriasClinicas{get;set;}
-   public DbSet<Vacuna> Vacunas{get;set; }
+   public DbSet<Vacuna> Vacunas{get;set;}
    public DbSet<Ejemplar> Ejemplares{get;set; }
    public DbSet<Fecha> Fechas{get;set; }
    
