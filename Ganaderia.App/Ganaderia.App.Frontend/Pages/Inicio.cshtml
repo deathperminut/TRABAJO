@@ -1,0 +1,32 @@
+﻿@page
+@model Ganaderia.App.Frontend.Pages.InicioModel
+@{
+}
+    <div class="SESION">
+
+        <div class="REGISTRO_FORMULARIO">
+
+
+            <form id="REGISTRO_FORMULARIO_FORM">
+                <h2 id="FORMULARIO_TEXTO">USUARIO</h2>
+                <input id="ENTRADA" type="text" name="usuario" required="" placeholder="Ingrese Usuario">
+                <h2 id="FORMULARIO_TEXTO">CONTRASEÑA</h2>
+                <input id="ENTRADA" type="password" name="contraseña" required="" placeholder="Ingrese Contraseña">
+                <h2 id="FORMULARIO_TEXTO">CUENTA</h2>
+                <div>
+                    <input type="radio" id="GANADERO" name="drone" value="GANADERO" checked>
+                    <label id="GANADERO" for="GANADERO">GANADERO</label>
+                </div>
+
+                <div>
+                    <input type="radio" id="VETERINARIO" name="drone" value="VETERINARIO">
+                    <label id="VETERINARIO" for="VETERINARIO">VETERINARIO</label>
+                </div>
+
+                <input id="boton_1" type="submit" value="Iniciar Sesión">
+            </form>
+
+        </div>
+
+
+    </div>

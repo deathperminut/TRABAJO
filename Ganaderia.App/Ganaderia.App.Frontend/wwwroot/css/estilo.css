@@ -1,0 +1,580 @@
+    h1 {
+        font-family: 'Press Start 2P', cursive;
+        text-align: center;
+        background: linear-gradient(to bottom, #171546, #181733);
+        color: rgb(255, 255, 255);
+        padding: 0.5em 0.5em;
+        line-height: 2;
+        Border-bottom: 3px solid #5f9;
+        transition: 1s;
+    }
+    
+    #SUBTITULO {
+        font-family: 'Press Start 2P', cursive;
+        text-align: center;
+        border-radius: 3%;
+        background: linear-gradient(to bottom, #171546, #181733);
+        color: rgb(255, 255, 255);
+        padding: 0.5em 0.5em;
+        line-height: 2;
+        transition: 1s;
+    }
+    
+    h1:hover,
+    #SUBTITULO:hover {
+        background: linear-gradient(to bottom, #151f25, #0c291f);
+        color: rgb(221, 202, 202);
+        Border-bottom: 3px solid rgb(9, 10, 10);
+    }
+    
+    header {
+        background: linear-gradient(to top, #000000, #1a0f5c);
+        text-align: center !important;
+        transition: all 1s;
+    }
+    
+    header:hover {
+        background: linear-gradient(to top, #000000, #2e1e8b);
+    }
+    
+    #lista_menu {
+        display: inline-block;
+        margin: 10px;
+    }
+    
+    a {
+        text-decoration: none;
+        font-family: 'Righteous', cursive;
+        color: rgb(175, 175, 214);
+    }
+    
+    #icono:hover {
+        color: white;
+    }
+    
+    #icono {
+        color: rgb(175, 175, 214);
+    }
+    
+    #cuerpo {
+        width: 100%;
+        height: 800px;
+        background-image: url("../imagenes/Home_imagen.jpg");
+        background-size: cover;
+    }
+    
+    #lista_buscamos {
+        background: linear-gradient(to top, #000000, #1a0f5c);
+        border-radius: 10%;
+        color: white;
+        width: 350px;
+        position: relative;
+        left: 10px;
+        top: 20px;
+        padding: 5px;
+    }
+    
+    #lista_buscamos_partes {
+        font-family: 'Righteous', cursive;
+    }
+    
+    #pregunta_buscamos {
+        background: linear-gradient(to top, #0f1810, #0a572c);
+        width: 350px;
+        padding: 5px;
+        height: 170px;
+        border-radius: 10%;
+        position: relative;
+        z-index: 2;
+        bottom: 170px;
+    }
+    
+    #pregunta_buscamos_texto {
+        color: white;
+        text-align: center;
+        position: relative;
+        top: 50px;
+    }
+    
+    #pregunta_buscamos:hover {
+        top: 100px;
+    }
+    
+    body {
+        background: linear-gradient(to top, #000000, #1a0f5c);
+    }
+    
+    #contenedor_redes {
+        display: flex;
+        justify-content: center;
+    }
+    
+    #REDES {
+        width: 150px;
+        height: 80px;
+        margin: 10px;
+        padding: 20px;
+        color: white;
+    }
+    
+    #REDES:hover {
+        border: 1px solid white;
+    }
+    
+    #REDES_ICONO {
+        display: block;
+        color: white;
+    }
+    
+    #redes {
+        background: linear-gradient(to top, #000000, #2e1e8b);
+        Border-bottom: 3px solid rgb(29, 36, 32);
+        font-family: 'Bebas Neue', cursive;
+        font-family: 'Righteous', cursive;
+        text-align: center;
+        color: rgb(175, 175, 214);
+    }
+    
+    .INSTAGRAM {
+        background-color: rgb(139, 35, 131);
+    }
+    
+    .FACEBOOK {
+        background-color: rgb(43, 72, 238);
+    }
+    
+    .TWITTER {
+        background-color: rgb(34, 174, 216);
+    }
+    
+    .DISCORD {
+        background-color: rgb(82, 82, 85);
+    }
+    
+    #tabla1 {
+        color: aliceblue;
+    }
+    
+    .SESION {
+        width: 100%;
+        height: 740px;
+        background-image: url("../imagenes/anime2.jpg");
+    }
+    
+    .REGISTRO {
+        background-image: url("../imagenes/inicio_sesion.jpg");
+        background-size: cover;
+        width: 100%;
+        height: 600px;
+        display: flex;
+    }
+    
+    .REGISTRO_FORMULARIO {
+        position: relative;
+        top: 150px;
+        display: inline-block;
+        margin: auto;
+        height: 50%;
+        width: 30%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-image: url("../imagenes/anime2.jpg");
+        padding: 90px;
+        border: 5px solid rgb(38, 38, 61);
+        border-radius: 30%;
+    }
+    
+    textarea {
+        Border-bottom: 3px solid #5f9;
+        color: white;
+        background: linear-gradient(to top, #040505, #20501b);
+    }
+    
+    #boton_1 {
+        display: block;
+        margin: 40px;
+        position: relative;
+        top: 10px;
+    }
+    
+    #boton_2,
+    #boton_3,
+    #boton_1,
+    #boton_4,
+    #boton_5 {
+        display: block;
+        margin: auto;
+        background-color: #428844;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+        font-family: 'Righteous', cursive;
+        color: white;
+        position: relative;
+    }
+    
+    #boton_6 {
+        background-color: #428844;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+        font-family: 'Righteous', cursive;
+        color: white;
+        position: relative;
+        bottom: 5px;
+    }
+    
+    #boton_7 {
+        background-color: #428844;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+        font-family: 'Righteous', cursive;
+        color: white;
+        position: relative;
+        height: 50px;
+        top: 30px;
+    }
+    
+    #FORMULARIO_TEXTO {
+        font-family: 'Press Start 2P', cursive;
+        font-size: 12px;
+        text-align: center;
+        margin: 15px;
+        color: rgb(255, 255, 255);
+    }
+    
+    #FORMULARIO_TEXTO_REGISTRO {
+        font-family: 'Press Start 2P', cursive;
+        font-size: 12px;
+        margin: 10px;
+        color: rgb(255, 255, 255);
+    }
+    
+    #ENTRADA {
+        Border-bottom: 3px solid #5f9;
+        color: white;
+        background: linear-gradient(to top, #000000, #2e1e8b);
+    }
+    
+    #ENTRADA_REGISTRO {
+        Border-bottom: 3px solid #5f9;
+        color: white;
+        background: linear-gradient(to top, #040505, #20501b);
+    }
+    
+    #contenedor_tabla {
+        width: 100%;
+    }
+    
+    #tabla1 {
+        margin: auto;
+    }
+    
+    .REGISTRO_FORMULARIO2,
+    .REGISTRO_FORMULARIO3 {
+        width: 47%;
+        text-align: center;
+        margin-left: 10px;
+        border: 1px solid #5f9;
+    }
+    
+    .REGISTRO_FORMULARIO3 {
+        background-image: url("../imagenes/inicio_sesion.jpg");
+        background-size: cover;
+        position: relative;
+        top: 40px;
+        height: 80%;
+        overflow-y: scroll;
+    }
+    
+    .REGISTRO_FORMULARIO2 {
+        background-image: url("../imagenes/inicio_sesion.jpg");
+        background-size: cover;
+        position: relative;
+        top: 40px;
+        height: 80%;
+    }
+    
+    .REGISTRO_FORMULARIO2:hover,
+    .REGISTRO_FORMULARIO3:hover {
+        border: 1px solid rgb(30, 36, 32);
+    }
+    
+    #boton_2 {
+        top: 92px;
+    }
+    
+    #boton_2:hover,
+    #boton_3:hover,
+    #boton_1:hover,
+    #boton_4:hover,
+    #boton_5:hover,
+    #boton_6:hover,
+    #boton_7:hover {
+        background-color: #1d271d
+    }
+    
+    #boton_2:active,
+    #boton_3:active,
+    #boton_1:active,
+    #boton_4:active,
+    #boton_5:active,
+    #boton_6:active,
+    #boton_7:active {
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+    }
+    
+    #VETERINARIO,
+    #GANADERO {
+        color: white;
+        font-family: 'Gluten', cursive;
+    }
+    
+    #CONTENEDOR_GANADERO {
+        width: 100%;
+        height: 600px;
+    }
+    
+    #boton_4 {
+        position: relative;
+        bottom: 5px;
+    }
+    
+    #CONTENEDOR_GANADERO_FILTRO {
+        background: linear-gradient(to bottom, #171546, #181733);
+        position: relative;
+        bottom: 30px;
+        text-align: center;
+    }
+    
+    #CONTENEDOR_GANADERO_CONTENEDOR_TABLA {
+        width: 100%;
+        height: 90%;
+        background-color: white;
+        overflow-y: scroll;
+        position: relative;
+        bottom: 20px;
+        overflow-y: scroll;
+    }
+    
+    #CONTENEDOR_GANADERO_CONTENEDOR_TABLA_TABLA {
+        margin: auto;
+        border-collapse: collapse;
+        width: 80%;
+        position: relative;
+        top: 20px;
+    }
+    
+    #titulo {
+        background-color: #0a572c;
+        color: white
+    }
+    
+    #CONTENEDOR_GANADERO_2 {
+        background-color: white;
+        width: 100%;
+        height: 600px;
+        display: flex;
+    }
+    
+    #CONTENEDOR_GANADERO_REGISTRO_GANADO {
+        width: 33.33%;
+        background: linear-gradient(to right, #1c251e, #204922);
+        text-align: center;
+        border: 3px solid rgb(31, 30, 19);
+    }
+    
+    #CONTENEDOR_GANADERO_MODIFICACIÓN_GANADO {
+        width: 33.33%;
+        text-align: center;
+        background: linear-gradient(to right, #204922, #12502a);
+        border: 3px solid rgb(31, 30, 19);
+    }
+    
+    #CONTENEDOR_GANADERO_ELIMINACIÓN_GANADO {
+        width: 33.33%;
+        background: linear-gradient(to right, #12502a, #19964d);
+        text-align: center;
+        border: 3px solid rgb(31, 30, 19);
+    }
+    
+    #CONTENEDOR_GANADERO_ELIMINACIÓN_GANADO:hover,
+    #CONTENEDOR_GANADERO_MODIFICACIÓN_GANADO:hover,
+    #CONTENEDOR_GANADERO_REGISTRO_GANADO:hover {
+        border: 3px solid rgb(201, 191, 87);
+    }
+    
+    #REGISTRO_TITULO {
+        background: linear-gradient(to top, #000000, #1a0f5c);
+        padding: 10px;
+        font-family: 'Press Start 2P', cursive;
+        color: white;
+        position: relative;
+        bottom: 20px;
+    }
+    
+    #codigo {
+        margin: auto;
+        display: block;
+    }
+    
+    #boton_5 {
+        position: relative;
+        top: 30px;
+    }
+    
+    #FORMULARIO_REGISTRAR,
+    #FORMULARIO_EDITAR,
+    #FORMULARIO_ELIMINAR {
+        font-family: 'Righteous', cursive;
+        color: rgb(175, 175, 214);
+    }
+    
+    #FORMULARIO_ELIMINAR {
+        position: relative;
+        top: 83px;
+    }
+    
+    .boton_6 {
+        position: relative;
+        top: 130px !important;
+    }
+    
+    #selector_ganadero_texto,
+    #selector_ganadero_lista {
+        display: inline-block;
+    }
+    
+    #selector_ganadero_texto {
+        font-family: 'Righteous', cursive;
+        color: white;
+    }
+    
+    #CONTENEDOR_GANADERO_CONTENEDOR_TABLA_2 {
+        width: 100%;
+        height: 80%;
+        background-color: white;
+        overflow-y: scroll;
+    }
+    
+    #titulo_tabla_ganado {
+        font-family: 'Righteous', cursive;
+        color: #0c291f;
+        text-align: center;
+    }
+    
+    #contenedor_eliminar_ganadero {
+        width: 100%;
+        height: 80px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    #customers {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+        height: 100%;
+    }
+    
+    #customers_historias {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 80%;
+        margin: auto;
+        margin-top: 30px;
+    }
+    
+    #customers td,
+    #customers th,
+    #customers_historias td,
+    #customers_historias th {
+        border: 1px solid #ddd;
+        padding: 8px;
+        background-color: aliceblue;
+        text-align: center;
+    }
+    
+    #customers tr:nth-child(even),
+    #customers_historias tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+    
+    #customers tr:hover,
+    #customers_historias tr:hover {
+        background-color: #ddd;
+    }
+    
+    #customers th,
+    #customers_historias th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #04AA6D;
+        color: white;
+    }
+    
+    #info_Ganadero {
+        width: 100%;
+        height: 500px;
+        background-color: white;
+        border-bottom-left-radius: 3%;
+    }
+    
+    #contenedor_agregar_historia {
+        overflow-y: scroll;
+        width: 50%;
+        height: 500px;
+        background-image: url('../imagenes/28326.jpg');
+        background-size: cover;
+        border-radius: 3%;
+        text-align: center;
+        color: white;
+    }
+    
+    #contenedor_agregar_vacuna {
+        width: 50%;
+        height: 500px;
+        background-image: url('../imagenes/28326.jpg');
+        background-size: cover;
+        border-radius: 3%;
+        text-align: center;
+        color: white;
+    }
+    
+    #info_Historias {
+        width: 50%;
+        height: 500px;
+        background-image: url('../imagenes/28326.jpg');
+        background-size: cover;
+        border-radius: 3%;
+        overflow-y: scroll;
+    }
+    
+    #CONTENEDOR_HISTORIAS_CLINICAS {
+        display: flex;
+        position: relative;
+        bottom: 30px;
+    }
+    
+    textarea {
+        display: block;
+        margin: auto;
+        margin-top: 40px;
+        width: 40%;
+        height: 100px;
+    }
+    
+    #info_Historias_ganadero {
+        width: 100%;
+        height: 500px;
+        background-image: url('../imagenes/28326.jpg');
+        background-size: cover;
+        border-radius: 3%;
+        overflow-y: scroll;
+    }
